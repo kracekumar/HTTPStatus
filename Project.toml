@@ -1,4 +1,4 @@
-name = "HTTPStatus"
+name = "HTTPStatus.jl"
 uuid = "3343e0d9-c05a-4b80-a9dc-415350111698"
 authors = ["Kracekumar <me@kracekumar.com>"]
 version = "0.1.1"
